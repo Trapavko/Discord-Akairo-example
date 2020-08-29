@@ -1,7 +1,7 @@
 # Akairo Discord example bot
 
 This is a repository to show the simple basics of Akairo Discord.
-The full example is created based on the ![basics documentation](https://discord-akairo.github.io/#/docs/main/master/basics)
+The full example is created based on the [basics documentation](https://discord-akairo.github.io/#/docs/main/master/basics)
 
 ## Setup
 
