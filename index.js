@@ -1,6 +1,4 @@
-const { ExampleClient } = require('./src/client');
+const { Client } = require('./src/client');
 
-(() => {
-    const client = new ExampleClient();
-    client.start();
-})();
+const client = new Client();
+client.start();

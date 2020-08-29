@@ -3,7 +3,7 @@ const path = require('path');
 
 require('dotenv').config();
 
-class ExampleClient extends AkairoClient {
+class Client extends AkairoClient {
     constructor() {
         super({
             // Options for Akairo go here.
@@ -44,4 +44,4 @@ class ExampleClient extends AkairoClient {
     }
 }
 
-module.exports = { ExampleClient };
+module.exports = { Client };
