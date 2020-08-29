@@ -7,4 +7,9 @@ The full example is created based on the [basics documentation](https://discord-
 
 copy `.env.example` and rename it to `.env`, atleast edit the `TOKEN=` value to make the bot work.
 
-You can then run `npm start`, `yarn start` or `docker-compose up`
+You can then run `npm start` or `yarn start`
+
+## Development
+
+Nodemon is used for automatic reloading of the bot while developing.
+To start developing run `npm run watch`, `yarn watch` or `docker-compose up`
